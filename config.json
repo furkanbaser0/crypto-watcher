@@ -1,0 +1,8 @@
+{
+  "thresholds": {
+    "BTCUSDT": 300000,
+    "ETHUSDT": 300000,
+    "SOLUSDT": 300000,
+    "others": 150000
+  }
+}
